@@ -33,6 +33,8 @@
 [The Principles of Deep Learning Theory](deeplearningtheory.com/PDLT.pdf)
 
 [Embedding Projector](https://projector.tensorflow.org/)
+
+[Machine Learning for Beginners - A Curriculum (Microsoft)](https://github.com/microsoft/ML-For-Beginners)
 ## エンジニアリング一般
 [Treasure Data チュートリアル SQLとは](https://docs.treasuredata.com/pages/releaseview.action?pageId=331269): 左のメニューバーからでないと各内容に飛べない
 
