@@ -1,4 +1,4 @@
-# リンク集
+# 機械学習の研究に関連するリンク集
 リンク集めの虫です。無料のリソースのみ
 ## 一般
 [Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker](openbookpublishers.com/product/1272)
